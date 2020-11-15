@@ -4,3 +4,9 @@ This project currnetly managed by **ray#1337** and [**H29id#4352**](https://h29i
 
 # License
 [MIT](https://opensource.org/licenses/MIT)
+
+# Source
+• UT1 ([Universite Toulouse 1 Capitole](http://www.ut-capitole.fr/)) <br>
+• [urlblacklist.com](http://urlblacklist.com/) <br>
+• The Block List Project ([T.B.L.P](https://blocklist.site/)) <br>
+• ConversationAI ([Moderator](https://github.com/conversationai/conversationai-moderator)) <br>
