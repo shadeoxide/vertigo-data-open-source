@@ -1,4 +1,4 @@
-# Vertigo Data Open-source
+# Vertigo Data Open-Source
 This is a repository that holds a source to analyze and research for the **Vertigo** project. <br>
 This project currently managed by **ray#1337** and [**H29id#4352**](https://h29id.xyz/)
 
