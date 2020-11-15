@@ -21,3 +21,6 @@ This project currently managed by **ray#1337** and [**H29id#4352**](https://h29i
     <td align="center"><a href="https://github.com/shadeoxide"><img src="https://avatars0.githubusercontent.com/u/61341723?s=460&u=c4c784e719e12985652b3852711a0f3b579c7e90&v=4" width="150px;" alt=""/><br /><sub><b>Shade</b></sub></a><br /><a href="https://github.com/shadeoxide" title="Contributor">📚</a></td>
     </tr>   
 </table>
+
+# Awesome human in the earth!
+Special thank you to [Newton](https://github.com/Newtonzz) and [Arc](https://arc.io) for the donation to cover up the project bill.
